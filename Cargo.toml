@@ -1,0 +1,7 @@
+[package]
+name = "qs_wasm_demo"
+version = "0.1.0"
+authors = ["Junji Takakura <j.takakura@gmail.com>"]
+edition = "2018"
+
+[dependencies]
