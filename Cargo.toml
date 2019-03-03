@@ -5,3 +5,4 @@ authors = ["Junji Takakura <j.takakura@gmail.com>"]
 edition = "2018"
 
 [dependencies]
+quicksilver = "*"
